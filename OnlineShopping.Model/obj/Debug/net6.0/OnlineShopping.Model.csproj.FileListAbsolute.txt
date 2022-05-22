@@ -1,0 +1,12 @@
+C:\Users\pc\Desktop\OnlineShopping\OnlineShopping.Model\bin\Debug\net6.0\OnlineShopping.Model.deps.json
+C:\Users\pc\Desktop\OnlineShopping\OnlineShopping.Model\bin\Debug\net6.0\OnlineShopping.Model.dll
+C:\Users\pc\Desktop\OnlineShopping\OnlineShopping.Model\bin\Debug\net6.0\OnlineShopping.Model.pdb
+C:\Users\pc\Desktop\OnlineShopping\OnlineShopping.Model\obj\Debug\net6.0\OnlineShopping.Model.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\OnlineShopping\OnlineShopping.Model\obj\Debug\net6.0\OnlineShopping.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\OnlineShopping\OnlineShopping.Model\obj\Debug\net6.0\OnlineShopping.Model.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\OnlineShopping\OnlineShopping.Model\obj\Debug\net6.0\OnlineShopping.Model.AssemblyInfo.cs
+C:\Users\pc\Desktop\OnlineShopping\OnlineShopping.Model\obj\Debug\net6.0\OnlineShopping.Model.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\OnlineShopping\OnlineShopping.Model\obj\Debug\net6.0\OnlineShopping.Model.dll
+C:\Users\pc\Desktop\OnlineShopping\OnlineShopping.Model\obj\Debug\net6.0\refint\OnlineShopping.Model.dll
+C:\Users\pc\Desktop\OnlineShopping\OnlineShopping.Model\obj\Debug\net6.0\OnlineShopping.Model.pdb
+C:\Users\pc\Desktop\OnlineShopping\OnlineShopping.Model\obj\Debug\net6.0\ref\OnlineShopping.Model.dll
