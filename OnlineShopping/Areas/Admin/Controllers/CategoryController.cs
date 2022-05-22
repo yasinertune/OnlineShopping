@@ -7,6 +7,7 @@ namespace OnlineShopping.Areas.Admin.Controllers
     [Area("Admin")]
     public class CategoryController : Controller
     {
+        //Deneme
         private readonly IUnitOfWork _unitOfwork;
 
         public CategoryController(IUnitOfWork unitOfWork)
@@ -78,6 +79,7 @@ namespace OnlineShopping.Areas.Admin.Controllers
             _unitOfwork.Category.Remove(category);
             _unitOfwork.Save();
             return RedirectToAction("Index");
+            
         }
 
 
