@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\Desktop\\OnlineShopping\\OnlineShopping.Model\\OnlineShopping.Model.csproj": {}
+    "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping.Model\\OnlineShopping.Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\Desktop\\OnlineShopping\\OnlineShopping.Model\\OnlineShopping.Model.csproj": {
+    "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping.Model\\OnlineShopping.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\OnlineShopping\\OnlineShopping.Model\\OnlineShopping.Model.csproj",
+        "projectUniqueName": "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping.Model\\OnlineShopping.Model.csproj",
         "projectName": "OnlineShopping.Model",
-        "projectPath": "C:\\Users\\pc\\Desktop\\OnlineShopping\\OnlineShopping.Model\\OnlineShopping.Model.csproj",
-        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\OnlineShopping\\OnlineShopping.Model\\obj\\",
+        "projectPath": "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping.Model\\OnlineShopping.Model.csproj",
+        "packagesPath": "C:\\Users\\omerg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\omerg\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,6 +40,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.Extensions.Identity.Stores": {
               "target": "Package",
               "version": "[6.0.5, )"

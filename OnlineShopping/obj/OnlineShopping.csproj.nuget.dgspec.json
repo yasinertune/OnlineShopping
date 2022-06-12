@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\Desktop\\OnlineShopping\\OnlineShopping\\OnlineShopping.csproj": {}
+    "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\OnlineShopping.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\Desktop\\OnlineShopping\\OnlineShopping.Data\\OnlineShopping.Data.csproj": {
+    "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping.Data\\OnlineShopping.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\OnlineShopping\\OnlineShopping.Data\\OnlineShopping.Data.csproj",
+        "projectUniqueName": "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping.Data\\OnlineShopping.Data.csproj",
         "projectName": "OnlineShopping.Data",
-        "projectPath": "C:\\Users\\pc\\Desktop\\OnlineShopping\\OnlineShopping.Data\\OnlineShopping.Data.csproj",
-        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\OnlineShopping\\OnlineShopping.Data\\obj\\",
+        "projectPath": "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping.Data\\OnlineShopping.Data.csproj",
+        "packagesPath": "C:\\Users\\omerg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\omerg\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\pc\\Desktop\\OnlineShopping\\OnlineShopping.Model\\OnlineShopping.Model.csproj": {
-                "projectPath": "C:\\Users\\pc\\Desktop\\OnlineShopping\\OnlineShopping.Model\\OnlineShopping.Model.csproj"
+              "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping.Model\\OnlineShopping.Model.csproj": {
+                "projectPath": "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping.Model\\OnlineShopping.Model.csproj"
               }
             }
           }
@@ -80,17 +80,17 @@
         }
       }
     },
-    "C:\\Users\\pc\\Desktop\\OnlineShopping\\OnlineShopping.Model\\OnlineShopping.Model.csproj": {
+    "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping.Model\\OnlineShopping.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\OnlineShopping\\OnlineShopping.Model\\OnlineShopping.Model.csproj",
+        "projectUniqueName": "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping.Model\\OnlineShopping.Model.csproj",
         "projectName": "OnlineShopping.Model",
-        "projectPath": "C:\\Users\\pc\\Desktop\\OnlineShopping\\OnlineShopping.Model\\OnlineShopping.Model.csproj",
-        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\OnlineShopping\\OnlineShopping.Model\\obj\\",
+        "projectPath": "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping.Model\\OnlineShopping.Model.csproj",
+        "packagesPath": "C:\\Users\\omerg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\omerg\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -116,6 +116,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.Extensions.Identity.Stores": {
               "target": "Package",
               "version": "[6.0.5, )"
@@ -140,17 +144,77 @@
         }
       }
     },
-    "C:\\Users\\pc\\Desktop\\OnlineShopping\\OnlineShopping\\OnlineShopping.csproj": {
+    "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping.SharedTools\\OnlineShopping.SharedTools.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\OnlineShopping\\OnlineShopping\\OnlineShopping.csproj",
-        "projectName": "OnlineShopping",
-        "projectPath": "C:\\Users\\pc\\Desktop\\OnlineShopping\\OnlineShopping\\OnlineShopping.csproj",
-        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\OnlineShopping\\OnlineShopping\\obj\\",
+        "projectUniqueName": "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping.SharedTools\\OnlineShopping.SharedTools.csproj",
+        "projectName": "OnlineShopping.SharedTools",
+        "projectPath": "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping.SharedTools\\OnlineShopping.SharedTools.csproj",
+        "packagesPath": "C:\\Users\\omerg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping.SharedTools\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\omerg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\OnlineShopping.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\OnlineShopping.csproj",
+        "projectName": "OnlineShopping",
+        "projectPath": "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\OnlineShopping.csproj",
+        "packagesPath": "C:\\Users\\omerg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\omerg\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -164,8 +228,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\pc\\Desktop\\OnlineShopping\\OnlineShopping.Data\\OnlineShopping.Data.csproj": {
-                "projectPath": "C:\\Users\\pc\\Desktop\\OnlineShopping\\OnlineShopping.Data\\OnlineShopping.Data.csproj"
+              "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping.Data\\OnlineShopping.Data.csproj": {
+                "projectPath": "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping.Data\\OnlineShopping.Data.csproj"
+              },
+              "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping.SharedTools\\OnlineShopping.SharedTools.csproj": {
+                "projectPath": "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping.SharedTools\\OnlineShopping.SharedTools.csproj"
               }
             }
           }
@@ -186,19 +253,21 @@
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.3, )"
+              "version": "[6.0.5, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[6.0.3, )"
+              "version": "[6.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.3, )"
+              "version": "[6.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.3, )"
+              "version": "[6.0.5, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
