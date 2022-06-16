@@ -35,7 +35,7 @@ namespace OnlineShopping.Areas.Customer.Controllers
         }
 
         [HttpPost]
-     
+        [Authorize]
         public IActionResult Details(Cart cart)
         {
             var claimIdentity = (ClaimsIdentity)User.Identity;
@@ -48,6 +48,8 @@ namespace OnlineShopping.Areas.Customer.Controllers
             {
                 _unitOfWork.Cart.Add(cart);
                 _unitOfWork.Save();
+                int cartCount = _unitOfWork.Cart.GetAll(u => u.AppUserId == claim.Value).ToList().Count();
+                HttpContext.Session.SetInt32("SessionCartCount", cartCount);
             }
             else
             {

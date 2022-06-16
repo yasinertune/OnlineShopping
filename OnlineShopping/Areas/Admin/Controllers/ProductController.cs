@@ -3,10 +3,12 @@ using OnlineShopping.Data.Repository.IRepository;
 using OnlineShopping.Model;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using OnlineShopping.Model.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 
 namespace OnlineShopping.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = "Admin")]
     public class ProductController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;

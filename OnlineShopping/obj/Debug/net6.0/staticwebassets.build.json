@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qU3mYeWOMFx0O/82hZNLGEFscPg+pmkGvs5Vo6qhEOk=",
+  "Hash": "WdXtuw/qtbUTJZdKijYAYB4dWnHM9JzEDk62OVEyw8o=",
   "Source": "OnlineShopping",
   "BasePath": "_content/OnlineShopping",
   "Mode": "Default",
@@ -1105,6 +1105,40 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\img\\products\\246d5fc0-11aa-424c-8265-8c86f6ab7afe.jpeg",
+      "SourceId": "OnlineShopping",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\",
+      "BasePath": "_content/OnlineShopping",
+      "RelativePath": "img/products/246d5fc0-11aa-424c-8265-8c86f6ab7afe.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\products\\246d5fc0-11aa-424c-8265-8c86f6ab7afe.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\img\\products\\56b06a54-f08c-4771-99f1-9dd5f78a9f37.jpeg",
+      "SourceId": "OnlineShopping",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\",
+      "BasePath": "_content/OnlineShopping",
+      "RelativePath": "img/products/56b06a54-f08c-4771-99f1-9dd5f78a9f37.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\products\\56b06a54-f08c-4771-99f1-9dd5f78a9f37.jpeg"
+    },
+    {
       "Identity": "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\img\\products\\72d9c63e-d689-4129-b85b-44d5a35cc459.jpg",
       "SourceId": "OnlineShopping",
       "SourceType": "Discovered",
@@ -1137,6 +1171,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\products\\9b8dd4bf-22f7-4a85-b909-190229258da6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\img\\products\\e04ed2a9-0fea-4047-92a4-7b053371e67f.jpeg",
+      "SourceId": "OnlineShopping",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\",
+      "BasePath": "_content/OnlineShopping",
+      "RelativePath": "img/products/e04ed2a9-0fea-4047-92a4-7b053371e67f.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\products\\e04ed2a9-0fea-4047-92a4-7b053371e67f.jpeg"
     },
     {
       "Identity": "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\img\\products\\eda5068a-0198-4a89-bf84-3f05fc85b8da.jpg",
