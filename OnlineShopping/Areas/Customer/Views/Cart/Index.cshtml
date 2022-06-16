@@ -1,10 +1,13 @@
 ﻿@model OnlineShopping.Model.ViewModels.CartVM
+@inject IHttpContextAccessor HttpContextAccessor
 
   <form method="post">
 
     <div class="row">
         <div class="col-lg-8 m-0">
-            
+             @if(@HttpContextAccessor.HttpContext.Session.GetInt32("SessionCartCount") == null){
+              <h6>Sepetiniz Boş.Ürün Ekleyiniz.</h6>
+             }
   
             @foreach (var item in Model.ListCart)
             {
