@@ -850,3 +850,9 @@ C:\Users\omerg\OneDrive\Masaüstü\OnlineShopping\OnlineShopping\obj\Debug\net6.
 C:\Users\omerg\OneDrive\Masaüstü\OnlineShopping\OnlineShopping\obj\Debug\net6.0\OnlineShopping.pdb
 C:\Users\omerg\OneDrive\Masaüstü\OnlineShopping\OnlineShopping\obj\Debug\net6.0\OnlineShopping.genruntimeconfig.cache
 C:\Users\omerg\OneDrive\Masaüstü\OnlineShopping\OnlineShopping\obj\Debug\net6.0\ref\OnlineShopping.dll
+C:\Users\pc\Desktop\OnlineShopping\OnlineShopping\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\pc\Desktop\OnlineShopping\OnlineShopping\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\pc\Desktop\OnlineShopping\OnlineShopping\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pc\Desktop\OnlineShopping\OnlineShopping\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\pc\Desktop\OnlineShopping\OnlineShopping\bin\Debug\net6.0\OnlineShopping.SharedTools.dll
+C:\Users\pc\Desktop\OnlineShopping\OnlineShopping\bin\Debug\net6.0\OnlineShopping.SharedTools.pdb

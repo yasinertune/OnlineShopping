@@ -2,19 +2,19 @@
 @model IEnumerable<Category>
 
 <div class="container">
-    <div class="row">
+    <div class="row mt-5">
         <div class="col-6">
             <h2>Kategori Listesi</h2>
         </div>
         <div class="col-6">
-            <a asp-controller="Category" asp-action="Create" class="btn btn-primary ">
+            <a asp-controller="Category" asp-action="Create" class="btn btn-success ">
                 <span>Yeni Kategori Ekle</span>
             </a>
         </div>
     </div>
     <div class="row">
 
-        <table class="table table-bordered table-striped my-2">
+        <table class="table table-bordered table-striped mt-3 bg-light">
             <thead>
                 <tr>
                     <th>
@@ -33,7 +33,7 @@
                     <tr>
                         <td>@category.Name</td>
                         <td>
-                            <a asp-controller="Category" asp-action="Edit" asp-route-id="@category.Id" class="btn btn-primary">
+                            <a asp-controller="Category" asp-action="Edit" asp-route-id="@category.Id" class="btn btn-success">
                                 Düzenle
                             </a>
 

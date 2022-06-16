@@ -3,16 +3,17 @@
 
 <form method="post">
 
-    <h2>Yeni Kategori Oluştur</h2>
-    <div class="row">
-        <label asp-for ="Name"></label>
+    
+    <h2 class="mt-5">Yeni Kategori Oluştur</h2>
+    <div class="row ">
+        <label asp-for ="Name">Kategori Adı</label>
         <input asp-for ="Name" class="form-control" />
     </div>
-    <div class="row my-2">
-        <div class="col-6"><button type="submit" class="btn btn-primary" >
+    <div class="row my-2 mt-2">
+        <div class="col-6"><button type="submit" class="btn btn-success" >
             Kaydet
         </button></div>
-        <div class="col-6"><a asp-controller="Category" asp-action="Index" class="btn btn-primary"> Kategori Listesine Dön  </a></div>        
+        <div class="col-6"><a asp-controller="Category" asp-action="Index" class="btn btn-success"> Kategori Listesine Dön  </a></div>        
         
     </div>
 </form>

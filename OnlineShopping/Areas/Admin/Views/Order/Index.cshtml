@@ -2,7 +2,7 @@
 @using OnlineShopping.Model
 
 <div class="container">
-    <div class="row">
+    <div class="row mt-5">
         <div class="col-6">
             <h2>Sipariş Listesi</h2>
         </div>
@@ -12,7 +12,7 @@
     </div>
     <div class="row">
         <table class="table table-bordered table-striped my-2">
-            <thead>
+            <thead class="text-center">
                 <tr>
                     <th>
                         Sipariş Id
@@ -29,16 +29,16 @@
                   
                 </tr>
             </thead>
-            <tbody>                
+            <tbody class="text-center align-middle">                 
                 @foreach (var Order in Model)
                 {
                     <tr>
                         <td>@Order.Id</td>
-                        <td class="pt-4">@Order.Name</td>
-                        <td class="pt-4">@Order.OrderPrice</td>
-                        <td class="pt-4">@Order.OrderStatus</td>
+                        <td >@Order.Name</td>
+                        <td >@Order.OrderPrice</td>
+                        <td>@Order.OrderStatus</td>
                         <td>
-                            <a asp-area="Admin" asp-controller="Order" asp-action="Details" asp-route-id="@Order.Id" class="btn btn-primary">
+                            <a asp-area="Admin" asp-controller="Order" asp-action="Details" asp-route-id="@Order.Id" class="btn btn-success">
                                 Detaylar
                             </a>
 

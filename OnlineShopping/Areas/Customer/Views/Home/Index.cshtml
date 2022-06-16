@@ -4,19 +4,20 @@
 <div class="row py-2">
 	@foreach(var item in Model)
 	{
-	<div class="col-lg-3 col-md-6">
-	<div class="row p-1">
-		<div class="col-12 p-1" style="border:1px solid #0066cc; border-radius:4px">
+	<div class="col-lg-3 col-md-6 m-2">
+	<div class="row mw-100">
+		<div class="col-12 p-1" style="border:2px solid #1B2430; border-radius:10px;">
 			<div class="card py-1">
 				<img src="@item.Picture" class="card-img-top rounded"/>
 				<div class="card-body">
-					<div px-1>
-						<p class="card-title h6 text-primary">@item.Name</p>
-						<p class="px-1">@item.Price TL</p>
+					<div px-1 class="text-center">
+						<hr size="4px">
+						<p class="card-title h4">@item.Name</p>
+						<p class="px-1 h6">@item.Price TL</p>
                     </div> 
 				</div>
 				<div>
-					<a asp-action="Details" class="btn btn-primary form-control" asp-route-productId="@item.Id">DETAYLAR</a>
+					<a asp-action="Details" class="btn btn-success form-control" asp-route-productId="@item.Id">ÜRÜNE GİT</a>
 				</div>
 			</div>
 

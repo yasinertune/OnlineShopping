@@ -7689,19 +7689,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\omerg\\.nuget\\packages\\": {}
+    "C:\\Users\\pc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping.Data\\OnlineShopping.Data.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\Desktop\\OnlineShopping\\OnlineShopping.Data\\OnlineShopping.Data.csproj",
       "projectName": "OnlineShopping.Data",
-      "projectPath": "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping.Data\\OnlineShopping.Data.csproj",
-      "packagesPath": "C:\\Users\\omerg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping.Data\\obj\\",
+      "projectPath": "C:\\Users\\pc\\Desktop\\OnlineShopping\\OnlineShopping.Data\\OnlineShopping.Data.csproj",
+      "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pc\\Desktop\\OnlineShopping\\OnlineShopping.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\omerg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7715,8 +7715,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping.Model\\OnlineShopping.Model.csproj": {
-              "projectPath": "C:\\Users\\omerg\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping.Model\\OnlineShopping.Model.csproj"
+            "C:\\Users\\pc\\Desktop\\OnlineShopping\\OnlineShopping.Model\\OnlineShopping.Model.csproj": {
+              "projectPath": "C:\\Users\\pc\\Desktop\\OnlineShopping\\OnlineShopping.Model\\OnlineShopping.Model.csproj"
             }
           }
         }

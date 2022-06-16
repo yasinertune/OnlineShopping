@@ -1,7 +1,7 @@
 ﻿@using OnlineShopping.Model
 @model OnlineShopping.Model.ViewModels.ProductVM
 
-<h2>Ürün @(Model.Product.Id <=0 ? "Ekle" : "Güncelle")</h2>
+<h2>@(Model.Product.Id <=0 ? "Yeni Ürün Ekle" : "Ürünü Güncelle")</h2>
 <form method="post" enctype="multipart/form-data">  
     <input asp-for="Product.Id" type="hidden"/>
     <input asp-for="Product.Picture" type="hidden"/>
@@ -41,6 +41,6 @@
         <input type="file" id="file" name="file" accept="image/*" class="form-control"/>
     </div>
 
-    <button type="submit" class="btn btn-primary">@(Model.Product.Id <=0 ? "Ekle" : "Güncelle")</button>
+    <button type="submit" class="btn btn-success mt-3 ">@(Model.Product.Id <=0 ? "Ekle" : "Güncelle")</button>
 
 </form>
