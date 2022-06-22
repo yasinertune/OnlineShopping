@@ -11403,19 +11403,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pc\\.nuget\\packages\\": {}
+    "C:\\Users\\KAYRA\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\Desktop\\OnlineShopping\\OnlineShopping\\OnlineShopping.csproj",
+      "projectUniqueName": "C:\\Users\\KAYRA\\Desktop\\OnlineShopping\\OnlineShopping\\OnlineShopping.csproj",
       "projectName": "OnlineShopping",
-      "projectPath": "C:\\Users\\pc\\Desktop\\OnlineShopping\\OnlineShopping\\OnlineShopping.csproj",
-      "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\Desktop\\OnlineShopping\\OnlineShopping\\obj\\",
+      "projectPath": "C:\\Users\\KAYRA\\Desktop\\OnlineShopping\\OnlineShopping\\OnlineShopping.csproj",
+      "packagesPath": "C:\\Users\\KAYRA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\KAYRA\\Desktop\\OnlineShopping\\OnlineShopping\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\KAYRA\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11429,11 +11429,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\pc\\Desktop\\OnlineShopping\\OnlineShopping.Data\\OnlineShopping.Data.csproj": {
-              "projectPath": "C:\\Users\\pc\\Desktop\\OnlineShopping\\OnlineShopping.Data\\OnlineShopping.Data.csproj"
+            "C:\\Users\\KAYRA\\Desktop\\OnlineShopping\\OnlineShopping.Data\\OnlineShopping.Data.csproj": {
+              "projectPath": "C:\\Users\\KAYRA\\Desktop\\OnlineShopping\\OnlineShopping.Data\\OnlineShopping.Data.csproj"
             },
-            "C:\\Users\\pc\\Desktop\\OnlineShopping\\OnlineShopping.SharedTools\\OnlineShopping.SharedTools.csproj": {
-              "projectPath": "C:\\Users\\pc\\Desktop\\OnlineShopping\\OnlineShopping.SharedTools\\OnlineShopping.SharedTools.csproj"
+            "C:\\Users\\KAYRA\\Desktop\\OnlineShopping\\OnlineShopping.SharedTools\\OnlineShopping.SharedTools.csproj": {
+              "projectPath": "C:\\Users\\KAYRA\\Desktop\\OnlineShopping\\OnlineShopping.SharedTools\\OnlineShopping.SharedTools.csproj"
             }
           }
         }
@@ -11497,7 +11497,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
